@@ -57,7 +57,7 @@ This project was designed to answer key questions:
 
 Using **Excel’s Data Analytics Ecosystem**, I performed a full data analysis workflow:
 
-- ** Data Preparation (ETL):** Cleaned and transformed job postings data using Power Query — removing inconsistencies, normalizing text, and structuring columns.
+- **Data Preparation (ETL):** Cleaned and transformed job postings data using Power Query — removing inconsistencies, normalizing text, and structuring columns.
 
 - **Data Modeling:** Built relational connections between data_jobs_all and data_job_skills using Power Pivot.
 
